@@ -4,4 +4,5 @@
 ## Настройка Git
 1.При первом использовании Git необходимо представиться.Необходимо ввести две команды:
 git config --global user.name "John Doe"
-git config --global user.email johndoe@example.comпш
+git config --global user.email johndoe@example.com
+Для проверке регестрации надо ввести команду git config --list
