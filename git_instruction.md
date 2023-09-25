@@ -6,4 +6,5 @@
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 Для проверке регестрации необходимо  ввести команду git config --list
-## 
+## Инициализация репарепазитория
+Выполнить команду git init появиться скрытая папака ".git" 
