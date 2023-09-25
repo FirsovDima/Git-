@@ -21,4 +21,4 @@ git config --global user.email johndoe@example.com
 ## Переход в предедущую версию 
 Для перехода в предедущую версию необходимо использовать две команды 
 1. git log 
-2. git checkout {Индекс измения}
+2. git checkout {Индекс комита}
