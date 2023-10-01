@@ -37,10 +37,11 @@ git config --global user.email johndoe@example.com
 3. Для перехода в заданую ветку ввести команду "git checkout <имя ветке>
 4. Для слияния веток ввести команду "git merge"
 Пример:
-Слияние ветки list=>main 
+Слияние ветки list=>main
 
+До
 ![скрин до](before.JPG)
-
+После 
 ![скрин после](after.JPG)
 
 Тут должен быть конфликт 
